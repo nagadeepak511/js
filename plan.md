@@ -1,12 +1,12 @@
 #JavaScript Revision
 
->> Hello world
+> Hello world
     - console.log
     - addition, multiplication, subtraction, division and output manipulation
     - prompt
     - alert
     - comment
->> Datatypes
+> Datatypes
     - number
     - string
     - bool
@@ -15,23 +15,23 @@
     - nan
     - typeof
     - Number, parseInt and parseFloat
->> Operators
+> Operators
     - Arithmetic
     - Concatenation
     - Numbers and strings
     - Logical
     - relational
->> Conditional
+> Conditional
     - if else
     - ternary
->> Math
+> Math
     - random
     - floor
     - step
     - round
     - PI, E, etc
     - pow, sqrt, sin etc
->> Strings
+> Strings
     - Index of
     - split
     - toString
@@ -41,7 +41,7 @@
     - ``, ${}
     - concatenation
     - equality
->> Arrays
+> Arrays
     - homo and hetero geneous arrays
     - length
     - Index of
@@ -49,14 +49,14 @@
     - pop
     - filter
     - map
->> Loops
+> Loops
     - For loop
     - For of loop
     - While loop
->> Functions
+> Functions
     - named function
     - arrow functions and anonymous function
->> DOM
+> DOM
     - document
         - getElementById
         - getElementsByTagName
@@ -70,15 +70,15 @@
         - jquery
     - window
         - onload
->> class and objects
+> class and objects
     - create class using standard declaration
     - JSON
->> Interact with API
+> Interact with API
     - async func
         - await
         - fetch
     - .then
->> Storage
+> Storage
     - cookie
     - localstorage
     - session storage
