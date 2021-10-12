@@ -32,13 +32,15 @@
     - PI, E, etc
     - pow, sqrt, sin etc
 - Strings
-    - Index of
+    - charat
+    - toUpperCase and toLowerCase
+    - slice
+    - trim
     - split
     - toString
     - replace
     - length
-    - substring
-    - ``, ${}
+    - ``, ${} (covered in Hello world)
     - concatenation
     - equality
 - Arrays
