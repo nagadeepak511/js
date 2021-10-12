@@ -49,6 +49,15 @@
     - Index of
     - push
     - pop
+    - unshift
+    - shift
+    - slice
+    - splice
+    - +
+    - concatenation
+    - sort
+    - reverse
+    - array.isArray
     - filter
     - map
 - Loops
