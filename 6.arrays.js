@@ -49,7 +49,7 @@ console.log(a+b)
 console.log(a.concat(b))
 console.log(a,b)
 
-// sort -> sorts the given array
+// sort -> sorts the given array in lexicographical order
 var a = [6,1,3,4,5,2]
 console.log(a, a.sort(), a)
 
@@ -60,6 +60,11 @@ console.log(a)
 var a = ["0a","d","c",1,8]
 a.sort()
 console.log(a)
+
+const numbers = [100, 25, 1, 5 ];
+const sorted = numbers.slice().sort(); // returns a new sorted array
+console.log(numbers); // [100, 25, 1, 5 ]
+console.log(sorted); // [1, 100, 25, 5]
 
 // reverse ->reverses given array
 var a= [1,2,3,4,5,6]
