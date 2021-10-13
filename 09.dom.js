@@ -39,7 +39,7 @@ console.log(document.getElementById('heading').innerText)
 console.log(document.getElementById('name').value)
 
 // jquery
-
+// use .querySelector instead
 // window
 
 // onload event

@@ -22,6 +22,8 @@ function getAllPokemons(){
 
 */
 
+// async function waits while the value is being fetched when await is used
+
 async function getAllPokemons(){
     var res = await fetch('https://pokeapi.co/api/v2/pokemon/?offset=0&limit=100')
     var data = await res.json()
