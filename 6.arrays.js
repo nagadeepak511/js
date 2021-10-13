@@ -51,7 +51,7 @@ console.log(a,b)
 
 // sort -> sorts the given array in lexicographical order
 var a = [6,1,3,4,5,2]
-console.log(a, a.sort(), a)
+console.log(a, a.sort(), a)     // note that arrays are passed by reference
 
 var a = ["a","d","c"]
 a.sort()
@@ -72,7 +72,7 @@ console.log(a)
 console.log(a.reverse())
 console.log(a)
 
-// Array.isArray
+// Array.isArray -> returns true if argument is array else false
 var a = 10, b=[1,2], c="123"
 console.log(Array.isArray(a))
 console.log(Array.isArray(b))
