@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;
+    margin: auto;
+    background-color: #E6E9FB !important;
+}
+
+nav{ 
+    background-color: #192041 !important;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#pokemon-search-bar{
+    height: 45px;
+}
+
+#search-instruction{
+    padding-top: 12px;
+}
+
+.pokemon-container {
+    background-color: rgba(255,255,255, 0.45);
+    border-radius: 20px;
+    transform: scale(0.98);
+    padding-left: 22px !important;
+    padding-right: 22px !important;
+    padding-bottom: 12px;
+    margin-top: 10px;
+}
+
+.pokemon-image{
+    width: 100%;
+    height: 150px;
+}
+
+.pokemon-number{
+    opacity: .75;
+}
+
+.pokemon-name{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.pokemon-type{
+    float: left;
+    margin-right: 12px;
+}
